@@ -1,6 +1,7 @@
-In this project, I integrated the New Relic APM (Application Performance Monitoring) agent into a Python-based game application called Data Dave. The primary goal was to monitor application performance, gather detailed insights into system metrics, and improve the overall efficiency of the game. With the help of New Relic we can do, Application performance monitoring (APM), Infrastructure monitoring, Log management, Vulnerability management and so on.
+In this project, I integrated the New Relic APM (Application Performance Monitoring) agent into a Python-based game application called Data Dave. The primary goal was to monitor application performance, gather detailed insights into system metrics, and improve the overall efficiency of the game.
 
 ### New Relic is a cloud-based platform that provides real-time insights into the performance and behavior of digital systems.
+With the help of New Relic we can do, Application performance monitoring (APM), Infrastructure monitoring, Log management, Vulnerability management and so on.
 
 ## Running the program
 
