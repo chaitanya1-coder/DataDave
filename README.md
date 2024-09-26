@@ -21,7 +21,7 @@ In this project, I integrated the New Relic APM (Application Performance Monitor
   - To see your game stats on a New Relic dashboard edit the [game_stats.json](game_stats.json) file by doing a global search and replace to substitute "YOUR_ACCOUNT_ID" with your 7-digit [account ID](https://docs.newrelic.com/docs/accounts/accounts-billing/account-structure/account-id/).
 
   - Then, copy the modified JSON and [import the dashboard](https://docs.newrelic.com/docs/query-your-data/explore-query-data/dashboards/introduction-dashboards/#dashboards-import) into your New Relic account.
-<br>
+    
 3. Custom Instrumentation
   - Evaluate the [game_stats.json](game_stats.json) and setup custom instrumentation for all the custom events similar to the example provided in the `game.py`.
   - Try to capture **MOST** of the events if not all
