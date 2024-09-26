@@ -3,8 +3,8 @@ In this project, I integrated the New Relic APM (Application Performance Monitor
 ### New Relic is a cloud-based platform that provides real-time insights into the performance and behavior of digital systems.
 With the help of New Relic we can do, Application performance monitoring (APM), Infrastructure monitoring, Log management, Vulnerability management and so on.
 
-New Relic Account ID- 4726082
-Email address used for creating the New Relic Account - chaitanyajobwork@gmail.com
+New Relic Account ID- 4726082, 
+Email address used for creating the New Relic Account- chaitanyajobwork@gmail.com
 
 ## Running the program
 
